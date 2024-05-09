@@ -1,1 +1,1 @@
-# Exam4-
+To use the script, you have to copy the repository to your python3 in r studio. Once the repository is copied, navigate to the directory and also run pytest to make sure everything is set up correctly. After confirming the tests pass, you can run the script by typing python3 with the path to the script you want to analyze. The script will process the file and give you the results without needing any modifications.
